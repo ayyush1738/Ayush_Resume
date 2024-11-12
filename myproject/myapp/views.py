@@ -8,7 +8,7 @@ from django.http import HttpResponse
 
 def htop(request):
     # Your full name
-    name = "Your Full Name"  # Replace with your actual name
+    name = "Ayush Singh Rathore"  # Replace with your actual name
 
     # System username
     username = os.getlogin()
